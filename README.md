@@ -3,7 +3,7 @@
 A machine learning web app that predicts red wine quality (score 3-8) from 11 physicochemical measurements, built with scikit-learn and deployed with Streamlit.
 
 ## Live demo
-[Add your public URL here once deployed]
+https://wine-quality-prediction-bbu22vrfv2hqu3tx7wweh2.streamlit.app/
 
 ## Overview
 
